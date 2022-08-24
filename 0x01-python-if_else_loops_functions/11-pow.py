@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-def pow(v, i):
-    return v ** i
+def pow(a, b):
+    return a ** b
